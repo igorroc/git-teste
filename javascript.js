@@ -1,8 +1,14 @@
-let a = 10
-let b = 5
+let a = 10;
+let b = 5;
 
-function soma(a, b){
-    return (a + b)
+function soma(
+	a,
+	b
+) {
+	return (
+		a +
+		b
+	);
 }
 
-soma(a, b)
+soma(a, b);
